@@ -16,13 +16,13 @@ Below are the steps to be followed to run the project:
 
 6.Use maven to install the dependencies defined in the pom file.
 
-7.Use mvn clean and mvn install 
+7.Use mvn clean and mvn install - If build fails,Right Click on Project--> Maven --> Update Project
 
 8.Once the build is success, Add Servers 
 
 9.Go this path : Right click of the project -> New -> Other -> Server -> Tomcat v9.0 server and create this server.
 
-7.Take the content of server.xml and context.xml in the ServerConfings folder and replace with Servers'.
+10.Run the project with using the Tomcat v9.0 server.
 
-8.Run the project with using the Tomcat v9.0 server.
+11.Once the server is started, open browser and type URL - http://localhost:8080/ceadar-coding-challenge
 
