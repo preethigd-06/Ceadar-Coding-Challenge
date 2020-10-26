@@ -1,4 +1,4 @@
-# ceadar-coding-challenge
+# ceADAR-coding-challenge
 
 This is a dynamic web project created to display the content of the given dataset (csv) in a table format.
 
@@ -20,7 +20,7 @@ Below are the steps to be followed to run the project:
 
 8.Once the build is success, Add Servers 
 
-9. Go this path : Right click of the project -> New -> Other -> Server -> Tomcat v9.0 server and create this server.
+9.Go this path : Right click of the project -> New -> Other -> Server -> Tomcat v9.0 server and create this server.
 
 7.Take the content of server.xml and context.xml in the ServerConfings folder and replace with Servers'.
 
